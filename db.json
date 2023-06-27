@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "titulo": "tennis",
+      "fecha": "jueves 10hs",
+      "recordatorio": true
+    },
+    {
+      "id": 2,
+      "titulo": "cumpleaños Cati",
+      "fecha": "31 agosto",
+      "recordatorio": true
+    }
+  ]
+}

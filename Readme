@@ -1,0 +1,21 @@
+Administrador de eventos y tareas con interfaz dinámica
+
+Proyecto desarrollado en react.js
+
+Para correr el programa necesita instalar Node.js, después
+siga los siguientes comandos:
+npm run server // base de datos
+
+En otra ventana del terminal
+npm start
+
+Event and task manager with dynamic interface
+
+A project developed in react. js
+
+To run the program you need to install Node.js, then
+follow the following commands:
+npm run server // database
+
+In another terminal window
+Npm start
