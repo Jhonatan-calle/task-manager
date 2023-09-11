@@ -1,34 +1,30 @@
-# Administrador de Eventos y Tareas con Interfaz Dinámica
+# Dynamic Event and Task Manager
 
-Bienvenido al Administrador de Eventos y Tareas con Interfaz Dinámica. Este proyecto te permite gestionar eventos y tareas de manera eficiente y cómoda. La interfaz dinámica proporciona una experiencia de usuario fluida, mientras que la base de datos subyacente garantiza un almacenamiento confiable de la información. El proyecto está desarrollado utilizando React.js.
+Welcome to the Dynamic Event and Task Manager. This project allows you to efficiently and conveniently manage events and tasks. The dynamic interface provides a smooth user experience, while the underlying database ensures reliable data storage. The project is developed using React.js.
 
-## Características
+## Features
 
-- Gestión de eventos: Agrega, edita y elimina eventos con facilidad.
-- Administración de tareas: Organiza tus tareas y marca su estado de completado.
-- Interfaz dinámica: Disfruta de una experiencia de usuario suave y atractiva.
-- Almacenamiento confiable: La base de datos asegura que tus datos se mantengan seguros.
+- Event Management: Easily add, edit, and delete events.
+- Task Administration: Organize your tasks and mark their completion status.
+- Dynamic Interface: Enjoy a seamless and appealing user experience.
+- Reliable Storage: The database ensures the safety of your data.
 
-## Requisitos
+## Requirements
 
-Antes de ejecutar el programa, asegúrate de tener Node.js instalado en tu máquina.
+Before running the program, make sure you have Node.js installed on your machine.
 
-## Instalación y Uso
+## Installation and Usage
 
-1. Clona este repositorio en tu máquina local.
-2. Asegúrate de tener Node.js instalado.
-3. Abre una ventana de terminal y navega a la carpeta raíz del proyecto.
-4. Ejecuta el siguiente comando para iniciar la aplicación: npm start
+1. Clone this repository to your local machine.
+2. Ensure you have Node.js installed.
+3. Open a terminal window and navigate to the project's root folder.
+4. Execute the following command to start the application: npm start
 
+## Contribution
 
-## Contribución
-
-¡Tus contribuciones son bienvenidas! Si encuentras errores, tienes ideas para nuevas características o mejoras, siéntete libre de abrir un "issue" o enviar un "pull request".
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Your contributions are welcome! If you find bugs, have ideas for new features or improvements, feel free to open an issue or submit a pull request.
 
 ---
 
-¡Esperamos que disfrutes utilizando el Administrador de Eventos y Tareas con Interfaz Dinámica! Si tienes alguna pregunta, no dudes en contactarnos.
+We hope you enjoy using the Dynamic Event and Task Manager! If you have any questions, please don't hesitate to contact me: jhonatancallegaleano@gmail.com
+
